@@ -1,0 +1,22 @@
+{
+  "name": "@shazz-react/reverse-my-string",
+  "version": "1.0.0",
+  "description": "Reverse the string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shazz-react/reverseString.git"
+  },
+  "keywords": [
+    "reverse"
+  ],
+  "author": "Shazz React",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shazz-react/reverseString/issues"
+  },
+  "homepage": "https://github.com/shazz-react/reverseString#readme"
+}
